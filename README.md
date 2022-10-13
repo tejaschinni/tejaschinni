@@ -13,4 +13,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tejaschinni&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tejaschinni&label=Profile%20Views&color=1&pretty=false" />
+</a>
